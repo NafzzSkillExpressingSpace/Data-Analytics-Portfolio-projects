@@ -1,10 +1,10 @@
 # Amathul Nafi Data analysis Portfolio 
 ## Table of contents
  - [About](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#about)
- - [Portfolio Projects](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/edit/main/README.md#portfolio-projects)
+ - [Portfolio Projects](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#portfolio-projects)
       - SQL
-           - [World layoffs data cleaning project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/edit/main/README.md#world-layoffs-data-cleaning-project)
-           - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/edit/main/README.md#world-layoffs-exploratory-data-analysis)
+           - [World layoffs data cleaning project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-data-cleaning-project)
+           - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
 
 ## About:
 
