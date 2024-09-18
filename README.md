@@ -27,6 +27,7 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 ### World layoffs Exploratory Data Analysis:
 
+**Link:** [`world layoffs exploratory data analysis`](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/world_layoffs_exp_DA.sql)
 
 **Objective:** To explore world layoffs data.
 
