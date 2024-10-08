@@ -6,7 +6,7 @@
            - [World layoffs data cleaning project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-data-cleaning-project)
            - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
       - Power BI
-           -[Adventure Works Report Dashborad]{
+           -[Adventure Works Report Dashborad](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#adventure-works-report-dashboard)
 
 ## About:
 
@@ -35,7 +35,7 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 ### Adventure Works Report Dashboard:
 
-**Link:** [Adventure Works Report]{https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/Adventure%20works%20report.pdf}
+**Link:** [Adventure Works Report](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/Adventure%20works%20report.pdf)
 
 **Description:** The dataset contains information about transactions, returns, customers, and sales territories of a global manufacturing company, "Adventure Works" that produces cycling equipment and accessories.
 (**Note**: this is a fictional dataset)
