@@ -35,11 +35,10 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 ### Adventure Works Report Dashboard:
 
-**Link:**
+**Link:** [Adventure Works Report]{https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/Adventure%20works%20report.pdf}
 
-**Description:** This dataset contains world layoffs data for different companies in the world between from march 2020 to June 2023. 
+**Description:** The dataset contains information about transactions, returns, customers, and sales territories of a global manufacturing company, "Adventure Works" that produces cycling equipment and accessories.
+(**Note**: this is a fictional dataset)
 
-**Skills Used:** Subqueries, Windows function, CTE’s, Aggregating functions. 
-
-**Platform Used:** MySQL Workbench
+**Skills Used:** Calculated columns, measures, DAX formulas
 
