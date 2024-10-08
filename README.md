@@ -6,7 +6,7 @@
            - [World layoffs data cleaning project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-data-cleaning)
            - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
       - Power BI
-           -[Adventure Works Report Dashborad](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#adventure-works-report-dashboard)
+           - [Adventure Works Report Dashborad](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#adventure-works-report-dashboard)
 
 ## About:
 
