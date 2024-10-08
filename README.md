@@ -5,6 +5,8 @@
       - SQL
            - [World layoffs data cleaning project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-data-cleaning-project)
            - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
+      - Power BI
+           -[Adventure Works Report Dashborad]{
 
 ## About:
 
@@ -30,6 +32,10 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 **Link:** [`world layoffs exploratory data analysis`](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/world_layoffs_exp_DA.sql)
 
 **Objective:** To explore world layoffs data.
+
+### Adventure Works Report Dashboard:
+
+**Link:**
 
 **Description:** This dataset contains world layoffs data for different companies in the world between from march 2020 to June 2023. 
 
