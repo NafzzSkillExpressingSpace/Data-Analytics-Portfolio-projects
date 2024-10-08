@@ -14,14 +14,15 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 ## Portfolio Projects:
 
-### World layoffs data cleaning project
+## World layoffs project
 
+**Description:** This dataset contains world layoffs data for different companies in the world between from march 2020 to June 2023.
+
+### World layoffs data cleaning
 
 **Link:** [`World layoff data cleaning project`](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/world_layoffs_data_Cleaning.sql)
 
 **Objective:** To clean data to use it for exploratory data analysis (EDA).
-
-**Description:** This dataset contains world layoffs data for different companies in the world between from march 2020 to June 2023. This project contains the data loading and data cleaning process.
 
 **Skills Used:** Data manipulation language (DML), Data query language (DQL), Data definition language (DDL).
 
@@ -32,6 +33,11 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 **Link:** [`world layoffs exploratory data analysis`](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/world_layoffs_exp_DA.sql)
 
 **Objective:** To explore world layoffs data.
+
+**Skills Used:**  Subqueries, Windows function, CTE’s, Aggregating functions. 
+
+**Platform Used:** MySQL Workbench.
+
 
 ### Adventure Works Report Dashboard:
 
