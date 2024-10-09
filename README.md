@@ -7,6 +7,7 @@
            - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
       - Power BI
            - [Adventure Works Report Dashborad](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#adventure-works-report-dashboard)
+           - [Maven Market Report Dashboard](
 
 ## About:
 
@@ -46,11 +47,13 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 **Description:** The dataset contains information about transactions, returns, customers, and sales territories of a global manufacturing company, "Adventure Works" that produces cycling equipment and accessories.
 (**Note**: this is a fictional dataset)
 
-**Skills Used:** Calculated columns, measures, DAX formulas
+**Skills Used:**  connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report
 
 ### Maven Market Report :
 
-**Link:** 
+**Link:** [Maven Market Report](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/Maven_project.pdf)
 
-**Description:** This dataset contains information from Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States.
+**Description:** This dataset contains information from Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States.(**Note**: this is a fictional dataset)
+
+**Skills Used:**  connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
 
