@@ -48,3 +48,9 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 **Skills Used:** Calculated columns, measures, DAX formulas
 
+### Maven Market Report :
+
+**Link:** 
+
+**Description:** This dataset contains information from Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States.
+
