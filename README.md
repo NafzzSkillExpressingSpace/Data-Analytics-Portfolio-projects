@@ -42,7 +42,7 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 **Platform Used:** MySQL Workbench.
 
 
-### Adventure Works Report Dashboard:
+## Adventure Works Report Dashboard:
 
 **Link:** [Adventure Works Report](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/Adventure%20works%20report.pdf)
 
@@ -51,7 +51,7 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 **Skills Used:**  connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report
 
-### Maven Market Report :
+## Maven Market Report :
 
 **Link:** [Maven Market Report](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/Maven_project.pdf)
 
