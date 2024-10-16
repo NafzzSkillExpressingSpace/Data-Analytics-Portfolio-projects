@@ -15,7 +15,7 @@
 
 Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completing my masters, I got interested in data analytics field and started to learn the same on my own. In this repository I will be showcasing skills, sharing projects related to data analytics.
 
-## Portfolio Projects:
+# Portfolio Projects:
 
 ## World layoffs project
 
