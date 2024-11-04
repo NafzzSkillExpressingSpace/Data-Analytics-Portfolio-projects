@@ -52,6 +52,8 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 **Skills Used:**  Windows function, CTE’s, Aggregating functions, Temp tables.
 
+**Platform used:** Microsoft SQL server
+
 ## Adventure Works Report Dashboard:
 
 **Link:** [Adventure Works Report](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/Adventure%20works%20report.pdf)
