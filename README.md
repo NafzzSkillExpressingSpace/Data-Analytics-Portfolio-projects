@@ -44,7 +44,7 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 ## Covid data exploratory analysis
 
-**Link:** 
+**Link:** [Covid SQL analysis](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/CovidEDA_sql.sql)
 
 **Description:** The data set contains informations about the cases, deaths and vaccination of COVID from year January 2020 to june 2024.
 
