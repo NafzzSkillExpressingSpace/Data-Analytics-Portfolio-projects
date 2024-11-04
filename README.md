@@ -5,6 +5,7 @@
       - SQL
            - [World layoffs data cleaning project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-data-cleaning)
            - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
+           - [Covid data exploratory analysis]
       - Power BI
            - [Adventure Works Report Dashborad](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#adventure-works-report-dashboard)
            - [Maven Market Report Dashboard](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#maven-market-report-)
@@ -41,6 +42,15 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 **Platform Used:** MySQL Workbench.
 
+## Covid data exploratory analysis
+
+**Link:** 
+
+**Description:** The data set contains informations about the cases, deaths and vaccination of COVID from year January 2020 to june 2024.
+
+**Objectives:** To explore covid data.
+
+**Skills Used:**  Windows function, CTE’s, Aggregating functions, Temp tables.
 
 ## Adventure Works Report Dashboard:
 
