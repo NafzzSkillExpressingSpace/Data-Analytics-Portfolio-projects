@@ -75,7 +75,7 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 
 ## Blinkit Dashboard :
 
-**Link:** 
+**Link:** [Blinkit Dashboard](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/BlinkIT%20Grocery%20Excel%20Dashboard.xlsx)
 
 **Description:** The dataset contains 12 columns with information on sales of grocery items across different outlets.
 
