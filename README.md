@@ -6,6 +6,8 @@
            - [World layoffs data cleaning project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-data-cleaning)
            - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
            - [Covid data exploratory analysis](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#covid-data-exploratory-analysis)
+      - Excel
+           - [Blinkit Dashboard]
       - Power BI
            - [Adventure Works Report Dashborad](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#adventure-works-report-dashboard)
            - [Maven Market Report Dashboard](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#maven-market-report-)
@@ -70,4 +72,12 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 **Description:** This dataset contains information from Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States.(**Note**: this is a fictional dataset)
 
 **Skills Used:**  connecting and shaping the data, building a relational model, adding calculated fields, and designing an interactive report.
+
+## Blinkit Dashboard :
+
+**Link:** 
+
+**Description:** The dataset contains 12 columns with information on sales of grocery items across different outlets.
+
+**Skills Used:** Pivot tables, Pivot Charts
 
