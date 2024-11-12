@@ -7,7 +7,7 @@
            - [World layoffs exploratory data analysis project.](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#world-layoffs-exploratory-data-analysis)
            - [Covid data exploratory analysis](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#covid-data-exploratory-analysis)
       - Excel
-           - [Blinkit Dashboard]
+           - [Blinkit Dashboard](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#blinkit-dashboard-)
       - Power BI
            - [Adventure Works Report Dashborad](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#adventure-works-report-dashboard)
            - [Maven Market Report Dashboard](https://github.com/NafzzSkillExpressingSpace/Data-Analytics-Portfolio-projects/blob/main/README.md#maven-market-report-)
