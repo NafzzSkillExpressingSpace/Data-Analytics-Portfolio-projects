@@ -80,4 +80,5 @@ Hi, I am Amathul Nafi! I have a master’s degree in mathematics. After completi
 **Description:** The dataset contains 12 columns with information on sales of grocery items across different outlets.
 
 **Skills Used:** Pivot tables, Pivot Charts
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/5a39ab41-496a-4e2d-bcf8-431f983ed8f0">
 
